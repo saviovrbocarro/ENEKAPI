@@ -16,6 +16,6 @@ Note: Since the framework is developed using specflow project, it uses specrun t
 
 Tools used for the UI Framework
 
-Visual Studio 2019
-Specflow
-HTTPClient in C# for API
+1) Visual Studio 2019
+2) Specflow
+3) HTTPClient in C# for API
