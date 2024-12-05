@@ -5,7 +5,7 @@ Readme for ENSEK Demo API Automation framework
 
 This is to give an overview understanding of some of the development approaches I have undertaken to successfully implement the test project also considering some of the future implementation.
 
-Firstly, Created a specflow project which makes writing tests more scenario based since its written in gherkin style format and helps anybody to easily read and understand the test scenario , and also to make use of srprofile file and generation of test report without having to use third party tools for report generation. Tools used are specflow for Feature based scenarios, HTTPClient with C# for UI Automation and Fluent Assertions for Validations.
+Firstly, Created a specflow project which makes writing tests more scenario based since its written in gherkin style format and helps anybody to easily read and understand the test scenario , and also to make use of srprofile file and generation of test report without having to use third party tools for report generation. Tools used are specflow for Feature based scenarios, HTTPClient with C# for API Automation and Fluent Assertions for Validations.
 
 While developing the framework, I considered making use of most of the Object oriented concepts for architecture, which will help us to organise, mantain and understanding the code better.
 
