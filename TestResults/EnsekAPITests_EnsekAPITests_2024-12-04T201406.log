@@ -1,0 +1,12 @@
+﻿2024-12-04T20:14:06.5917498+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2024-12-04T20:14:06.5918581+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2024-12-04T20:14:06.5918623+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2024-12-04T20:14:06.5947275+00:00;VSTestExecutionThread;Info;Current UserName: 'savio', MachineName: 'DESKTOP-44J5CFI'
+2024-12-04T20:14:06.8379860+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T20:14:06.8383860+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\savio\source\repos\EnsekAPITests\TestResults" (default)
+2024-12-04T20:14:06.8384752+00:00;VSTestExecutionThread;Info;Profile: EnsekAPITests
+2024-12-04T20:14:06.9274607+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\savio\source\repos\EnsekAPITests\TestResults\EnsekAPITests_EnsekAPITests_2024-12-04T201406.log
+2024-12-04T20:14:06.9410961+00:00;Thread#12;Info;Checking activation
+2024-12-04T20:14:07.1184057+00:00;Thread#12;Info;Activated.
+2024-12-04T20:14:07.1186561+00:00;Thread#12;Info;Activation check completed
+2024-12-04T20:14:07.1187324+00:00;Thread#12;Info;Starting test run

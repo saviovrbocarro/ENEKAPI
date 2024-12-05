@@ -1,0 +1,462 @@
+﻿2024-12-04T01:10:19.5006935+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2024-12-04T01:10:19.5008626+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2024-12-04T01:10:19.5008663+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2024-12-04T01:10:19.5038051+00:00;VSTestExecutionThread;Info;Current UserName: 'savio', MachineName: 'DESKTOP-44J5CFI'
+2024-12-04T01:10:19.6108234+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T01:10:19.6110268+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\savio\source\repos\EnsekAPITests\TestResults" (default)
+2024-12-04T01:10:19.6110829+00:00;VSTestExecutionThread;Info;Profile: EnsekAPITests
+2024-12-04T01:10:19.6415882+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\savio\source\repos\EnsekAPITests\TestResults\EnsekAPITests_EnsekAPITests_2024-12-04T011019.log
+2024-12-04T01:10:19.6456943+00:00;Thread#12;Info;Checking activation
+2024-12-04T01:10:19.7191331+00:00;Thread#12;Info;Activated.
+2024-12-04T01:10:19.7193435+00:00;Thread#12;Info;Activation check completed
+2024-12-04T01:10:19.7194068+00:00;Thread#12;Info;Starting test run
+2024-12-04T01:10:19.7901006+00:00;Thread#12;Info;Discovering target: Default
+2024-12-04T01:10:19.7902886+00:00;Thread#12;Info;Discovering tests from assembly: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T01:10:19.8595586+00:00;Thread#12;Info;Discovered tests from assembly: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T01:10:19.8604141+00:00:Test Suite Dump
+2024-12-04T01:10:19.8618875+00:00:#0: EnsekAPITests/EnsekAPITests - 
+2024-12-04T01:10:19.8619141+00:00:#1: Default - 
+2024-12-04T01:10:19.8619170+00:00:#2: EnsekAPITests - 
+2024-12-04T01:10:19.8619188+00:00:#3: BuyFuel - 
+2024-12-04T01:10:19.8629719+00:00:#4: Buy A Quantity Of Fuel, Variant 0 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Buy+A+Quantity+Of+Fuel%2c+Variant+0
+2024-12-04T01:10:19.8630389+00:00:#5: Buy A Quantity Of Fuel, Variant 1 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Buy+A+Quantity+Of+Fuel%2c+Variant+1
+2024-12-04T01:10:19.8630456+00:00:#6: Buy A Quantity Of Fuel, Variant 2 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Buy+A+Quantity+Of+Fuel%2c+Variant+2
+2024-12-04T01:10:19.8630503+00:00:#7: Buy A Quantity Of Fuel, Variant 3 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Buy+A+Quantity+Of+Fuel%2c+Variant+3
+2024-12-04T01:10:19.8630623+00:00:#8: Verify that each order from the previous step is returned in the /orders list with the expected details, Variant 0 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+that+each+order+from+the+previous+step+is+returned+in+the+%2forders+list+with+the+expected+details%2c+Variant+0
+2024-12-04T01:10:19.8630722+00:00:#9: Verify that each order from the previous step is returned in the /orders list with the expected details, Variant 1 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+that+each+order+from+the+previous+step+is+returned+in+the+%2forders+list+with+the+expected+details%2c+Variant+1
+2024-12-04T01:10:19.8631000+00:00:#10: Verify that each order from the previous step is returned in the /orders list with the expected details, Variant 2 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+that+each+order+from+the+previous+step+is+returned+in+the+%2forders+list+with+the+expected+details%2c+Variant+2
+2024-12-04T01:10:19.8631075+00:00:#11: Verify orders that were created before the current date - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+orders+that+were+created+before+the+current+date
+2024-12-04T01:10:19.8631166+00:00:#12: Verify price of fuel is properly calculated based on price per unit, Variant 0 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+price+of+fuel+is+properly+calculated+based+on+price+per+unit%2c+Variant+0
+2024-12-04T01:10:19.8631218+00:00:#13: Verify price of fuel is properly calculated based on price per unit, Variant 1 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+price+of+fuel+is+properly+calculated+based+on+price+per+unit%2c+Variant+1
+2024-12-04T01:10:19.8631263+00:00:#14: Verify price of fuel is properly calculated based on price per unit, Variant 2 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+price+of+fuel+is+properly+calculated+based+on+price+per+unit%2c+Variant+2
+2024-12-04T01:10:19.8631350+00:00:#15: Verify price of fuel is properly calculated based on price per unit, Variant 3 - TestAssembly:EnsekAPITests/Feature:BuyFuel/Scenario:Verify+price+of+fuel+is+properly+calculated+based+on+price+per+unit%2c+Variant+3
+2024-12-04T01:10:19.8631999+00:00:End: Test Suite Dump
+2024-12-04T01:10:19.8772321+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:19.8786777+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2024-12-04T01:10:19.8787415+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2024-12-04T01:10:19.8817339+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:19.8817556+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:19.8817583+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:19.8817693+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2024-12-04T01:10:19.8826188+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2024-12-04T01:10:19.8841004+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:19.8860784+00:00:Thread #0: creating new test thread executor for EnsekAPITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2024-12-04T01:10:19.8883221+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2024-12-04T01:10:19.8884880+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2024-12-04T01:10:19.9660653+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2024-12-04T01:10:19.9696014+00:00:starting Out Of Process Executor
+2024-12-04T01:10:19.9788766+00:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T01:10:19.9824074+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2024-12-04T01:10:19.9824409+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2024-12-04T01:10:19.9835437+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:19.9838548+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T01:10:19.9839349+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T01:10:19.9839653+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:19.9926376+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:19.9926579+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T01:10:19.9930903+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T01:10:19.9931279+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:19.9932496+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:19.9932556+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T01:10:19.9932858+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T01:10:19.9933043+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:19.9936210+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:19.9936279+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T01:10:19.9940211+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T01:10:19.9940618+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:19.9966684+00:00:Starting callback TCP Rpc server
+2024-12-04T01:10:20.0180226+00:00:Asynchronously starting background TCP Rpc Server on port 32768
+2024-12-04T01:10:20.0184237+00:00:Started callback TCP Rpc server on port 32768
+2024-12-04T01:10:20.0184353+00:00:Starting logger TCP Rpc server
+2024-12-04T01:10:20.0204037+00:00:Asynchronously starting background TCP Rpc Server on port 32769
+2024-12-04T01:10:20.0204501+00:00:Started logger TCP Rpc server on port 32769
+2024-12-04T01:10:20.1251960+00:00:Executing test executor at 'dotnet' 'exec "C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 29392 --uniqueId "2024-12-04T011019" --outputFolder "C:\Users\savio\source\repos\EnsekAPITests\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:20.1591866+00:00:Executor with PID 10336 has been started successfully.
+2024-12-04T01:10:20.1627805+00:00:Out of Process Executor 10336 started
+2024-12-04T01:10:20.1628033+00:00:Waiting for endpoint
+2024-12-04T01:10:20.4418399+00:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T01:10:20.4419170+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2024-12-04T01:10:20.4419196+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2024-12-04T01:10:20.4419248+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:20.4419263+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T01:10:20.4419549+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T01:10:20.4419974+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:20.4426913+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:20.4427031+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T01:10:20.4427475+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T01:10:20.4427684+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:20.4428543+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:20.4428600+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T01:10:20.4428920+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T01:10:20.4429107+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:20.4430026+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:20.4430081+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T01:10:20.4430385+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T01:10:20.4430580+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:20.6818662+00:00:Remote executor port received: 32770
+2024-12-04T01:10:20.6822337+00:00:Creating executor TCP client on port 32770
+2024-12-04T01:10:20.6826268+00:00:Created executor TCP client on port 32770
+2024-12-04T01:10:20.6826362+00:00:Connecting to remote executor TCP server
+2024-12-04T01:10:20.6836959+00:00:Connected remote executor TCP server
+2024-12-04T01:10:20.6838489+00:00:trying to connect to Out of Process Executor the 1 attempt
+2024-12-04T01:10:20.6838579+00:00:Connection to Out of Process Executor established in the 1 attempt
+2024-12-04T01:10:20.8004677+00:00:2024-12-04T01:10:20.7994016+00:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll on test thread #0
+2024-12-04T01:10:20.8049299+00:00:Endpoint 10336 started
+2024-12-04T01:10:20.8211193+00:00:2024-12-04T01:10:20.8206521+00:00:OutOfProcessTestAssemblyExecutor: running tests...
+2024-12-04T01:10:20.9445359+00:00:2024-12-04T01:10:20.9440451+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2024-12-04T01:10:20.9479017+00:00:2024-12-04T01:10:20.9472204+00:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2024-12-04T01:10:20.9520177+00:00:2024-12-04T01:10:20.9513587+00:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\savio\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2024-12-04T01:10:21.0415337+00:00:2024-12-04T01:10:21.0410325+00:00:Thread#0:T:-> Loading plugin C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2024-12-04T01:10:21.0444427+00:00:2024-12-04T01:10:21.0439411+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2024-12-04T01:10:21.0494097+00:00:2024-12-04T01:10:21.0488826+00:00:Thread#0:T:-> Using default config
+2024-12-04T01:10:21.0580549+00:00:2024-12-04T01:10:21.0574871+00:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2024-12-04T01:10:21.0589947+00:00:2024-12-04T01:10:21.0585735+00:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2024-12-04T01:10:21.0599081+00:00:2024-12-04T01:10:21.0595854+00:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\savio\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2024-12-04T01:10:21.0619584+00:00:2024-12-04T01:10:21.0614503+00:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2024-12-04T01:10:21.0625164+00:00:2024-12-04T01:10:21.0622566+00:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2024-12-04T01:10:21.0631134+00:00:2024-12-04T01:10:21.0628894+00:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\savio\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2024-12-04T01:10:21.0714742+00:00:2024-12-04T01:10:21.0708962+00:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T01:10:21.0721704+00:00:2024-12-04T01:10:21.0719113+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2024-12-04T01:10:21.0731002+00:00:2024-12-04T01:10:21.0726770+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\savio\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2024-12-04T01:10:21.1011819+00:00:2024-12-04T01:10:21.1005826+00:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2024-12-04T01:10:21.1018724+00:00:2024-12-04T01:10:21.1015759+00:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2024-12-04T01:10:21.1029143+00:00:2024-12-04T01:10:21.1025276+00:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\savio\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2024-12-04T01:10:21.2604956+00:00:Thread#0: Test #4/0 is started on thread #0
+2024-12-04T01:10:21.2850988+00:00:2024-12-04T01:10:21.2845082+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.3566565+00:00:2024-12-04T01:10:21.3561698+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.3580123+00:00:2024-12-04T01:10:21.3576513+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.3591332+00:00:2024-12-04T01:10:21.3588135+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.3615208+00:00:2024-12-04T01:10:21.3612226+00:00:Thread#0:B:When The user buys 10 quantity of gas fuel
+2024-12-04T01:10:21.3641187+00:00:2024-12-04T01:10:21.3635102+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.3651533+00:00:2024-12-04T01:10:21.3646215+00:00:Thread#0:B:Then The user would get back response You have purchased 2990 m³ at a cost of 3.4000000000000004 there are 10 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.3674894+00:00:2024-12-04T01:10:21.3671154+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.3755680+00:00:2024-12-04T01:10:21.3751185+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.3760768+00:00:2024-12-04T01:10:21.3758607+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.3842580+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.3843018+00:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2024-12-04T01:10:21.3843060+00:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2024-12-04T01:10:21.3843513+00:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.3843553+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.3843567+00:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.3843584+00:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2024-12-04T01:10:21.3843804+00:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2024-12-04T01:10:21.3844293+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4146607+00:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.1519365 seconds
+2024-12-04T01:10:21.4174119+00:00:Thread#0: Test #5/0 is started on thread #0
+2024-12-04T01:10:21.4187304+00:00:2024-12-04T01:10:21.4184013+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4199081+00:00:2024-12-04T01:10:21.4196373+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4204318+00:00:2024-12-04T01:10:21.4201861+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4208094+00:00:2024-12-04T01:10:21.4206228+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4212062+00:00:2024-12-04T01:10:21.4209673+00:00:Thread#0:B:When The user buys 7 quantity of electric fuel
+2024-12-04T01:10:21.4215643+00:00:2024-12-04T01:10:21.4213687+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4219323+00:00:2024-12-04T01:10:21.4217674+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 10 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4222680+00:00:2024-12-04T01:10:21.4221498+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4231477+00:00:2024-12-04T01:10:21.4229625+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4233911+00:00:2024-12-04T01:10:21.4232752+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4240894+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4241139+00:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2024-12-04T01:10:21.4241171+00:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2024-12-04T01:10:21.4241536+00:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4241576+00:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4241795+00:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4241823+00:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2024-12-04T01:10:21.4241938+00:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2024-12-04T01:10:21.4242027+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4253922+00:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0.0079131 seconds
+2024-12-04T01:10:21.4258251+00:00:Thread#0: Test #6/0 is started on thread #0
+2024-12-04T01:10:21.4264632+00:00:2024-12-04T01:10:21.4262824+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4318354+00:00:2024-12-04T01:10:21.4272793+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4324034+00:00:2024-12-04T01:10:21.4322028+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4327874+00:00:2024-12-04T01:10:21.4326132+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4330867+00:00:2024-12-04T01:10:21.4329400+00:00:Thread#0:B:When The user buys 9 quantity of nuclear fuel
+2024-12-04T01:10:21.4334379+00:00:2024-12-04T01:10:21.4332894+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4337558+00:00:2024-12-04T01:10:21.4336017+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 10 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4341550+00:00:2024-12-04T01:10:21.4339887+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4350307+00:00:2024-12-04T01:10:21.4348283+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4353462+00:00:2024-12-04T01:10:21.4351697+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4360208+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4360334+00:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2024-12-04T01:10:21.4360354+00:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2024-12-04T01:10:21.4360582+00:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4360617+00:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4360631+00:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4360646+00:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2024-12-04T01:10:21.4360734+00:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2024-12-04T01:10:21.4360845+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4369144+00:00:Thread#0: Test #6/0 is finished on thread #0 as Pending within 0.0110568 seconds
+2024-12-04T01:10:21.4373303+00:00:Thread#0: Test #7/0 is started on thread #0
+2024-12-04T01:10:21.4381658+00:00:2024-12-04T01:10:21.4379492+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4390857+00:00:2024-12-04T01:10:21.4388921+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4394302+00:00:2024-12-04T01:10:21.4392648+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4398182+00:00:2024-12-04T01:10:21.4396541+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4400857+00:00:2024-12-04T01:10:21.4399767+00:00:Thread#0:B:When The user buys 10 quantity of oil fuel
+2024-12-04T01:10:21.4403491+00:00:2024-12-04T01:10:21.4402301+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4405904+00:00:2024-12-04T01:10:21.4404790+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 10 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4409972+00:00:2024-12-04T01:10:21.4408314+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4419150+00:00:2024-12-04T01:10:21.4417132+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4421954+00:00:2024-12-04T01:10:21.4420291+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4432868+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4432983+00:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2024-12-04T01:10:21.4433009+00:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2024-12-04T01:10:21.4433152+00:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4433172+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4433185+00:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4433207+00:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2024-12-04T01:10:21.4433289+00:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2024-12-04T01:10:21.4433341+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4442104+00:00:Thread#0: Test #7/0 is finished on thread #0 as Pending within 0.006858 seconds
+2024-12-04T01:10:21.4445771+00:00:Thread#0: Test #8/0 is started on thread #0
+2024-12-04T01:10:21.4463762+00:00:2024-12-04T01:10:21.4460057+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4479798+00:00:2024-12-04T01:10:21.4475661+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4485817+00:00:2024-12-04T01:10:21.4483053+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4489738+00:00:2024-12-04T01:10:21.4488298+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4492497+00:00:2024-12-04T01:10:21.4491247+00:00:Thread#0:B:When The user buys  quantity of  fuel
+2024-12-04T01:10:21.4495366+00:00:2024-12-04T01:10:21.4494250+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4498519+00:00:2024-12-04T01:10:21.4496944+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4501987+00:00:2024-12-04T01:10:21.4500755+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4505080+00:00:2024-12-04T01:10:21.4503766+00:00:Thread#0:B:When The user sends request to obtain details of previous orders
+2024-12-04T01:10:21.4508184+00:00:2024-12-04T01:10:21.4506803+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4511233+00:00:2024-12-04T01:10:21.4510008+00:00:Thread#0:B:Then The user should see  details of previous orders
+2024-12-04T01:10:21.4514133+00:00:2024-12-04T01:10:21.4512907+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4523818+00:00:2024-12-04T01:10:21.4522009+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4526591+00:00:2024-12-04T01:10:21.4525333+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4532571+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4532670+00:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2024-12-04T01:10:21.4532689+00:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2024-12-04T01:10:21.4532821+00:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4532842+00:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4532858+00:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4532872+00:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2024-12-04T01:10:21.4532951+00:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2024-12-04T01:10:21.4533013+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4541455+00:00:Thread#0: Test #8/0 is finished on thread #0 as Pending within 0.0095468 seconds
+2024-12-04T01:10:21.4544790+00:00:Thread#0: Test #9/0 is started on thread #0
+2024-12-04T01:10:21.4554188+00:00:2024-12-04T01:10:21.4551078+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4612432+00:00:2024-12-04T01:10:21.4609311+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4616958+00:00:2024-12-04T01:10:21.4615122+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4620593+00:00:2024-12-04T01:10:21.4619252+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4623183+00:00:2024-12-04T01:10:21.4621909+00:00:Thread#0:B:When The user buys  quantity of  fuel
+2024-12-04T01:10:21.4626378+00:00:2024-12-04T01:10:21.4625232+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4629862+00:00:2024-12-04T01:10:21.4628276+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4634367+00:00:2024-12-04T01:10:21.4632647+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4637984+00:00:2024-12-04T01:10:21.4636439+00:00:Thread#0:B:When The user sends request to obtain details of previous orders
+2024-12-04T01:10:21.4642522+00:00:2024-12-04T01:10:21.4640891+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4645376+00:00:2024-12-04T01:10:21.4644058+00:00:Thread#0:B:Then The user should see  details of previous orders
+2024-12-04T01:10:21.4648964+00:00:2024-12-04T01:10:21.4647451+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4658818+00:00:2024-12-04T01:10:21.4656420+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4661489+00:00:2024-12-04T01:10:21.4660402+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4666502+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4666605+00:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2024-12-04T01:10:21.4666626+00:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2024-12-04T01:10:21.4666862+00:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4666901+00:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4666915+00:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4666930+00:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2024-12-04T01:10:21.4667017+00:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2024-12-04T01:10:21.4667070+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4675932+00:00:Thread#0: Test #9/0 is finished on thread #0 as Pending within 0.0130967 seconds
+2024-12-04T01:10:21.4678752+00:00:Thread#0: Test #10/0 is started on thread #0
+2024-12-04T01:10:21.4686249+00:00:2024-12-04T01:10:21.4684406+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4694250+00:00:2024-12-04T01:10:21.4692612+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4697111+00:00:2024-12-04T01:10:21.4696070+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4699547+00:00:2024-12-04T01:10:21.4698528+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4701718+00:00:2024-12-04T01:10:21.4700672+00:00:Thread#0:B:When The user buys  quantity of  fuel
+2024-12-04T01:10:21.4705148+00:00:2024-12-04T01:10:21.4703103+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4707837+00:00:2024-12-04T01:10:21.4706624+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4710740+00:00:2024-12-04T01:10:21.4709727+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4712915+00:00:2024-12-04T01:10:21.4711806+00:00:Thread#0:B:When The user sends request to obtain details of previous orders
+2024-12-04T01:10:21.4715341+00:00:2024-12-04T01:10:21.4714301+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4717543+00:00:2024-12-04T01:10:21.4716399+00:00:Thread#0:B:Then The user should see  details of previous orders
+2024-12-04T01:10:21.4719956+00:00:2024-12-04T01:10:21.4718834+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4727508+00:00:2024-12-04T01:10:21.4725856+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4729345+00:00:2024-12-04T01:10:21.4728371+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4733776+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4733872+00:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2024-12-04T01:10:21.4733891+00:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2024-12-04T01:10:21.4734019+00:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4734039+00:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4734058+00:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4734073+00:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2024-12-04T01:10:21.4734154+00:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2024-12-04T01:10:21.4734216+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4742570+00:00:Thread#0: Test #10/0 is finished on thread #0 as Pending within 0.0063633 seconds
+2024-12-04T01:10:21.4745360+00:00:Thread#0: Test #11/0 is started on thread #0
+2024-12-04T01:10:21.4759240+00:00:2024-12-04T01:10:21.4757050+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4767677+00:00:2024-12-04T01:10:21.4765822+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4770123+00:00:2024-12-04T01:10:21.4769028+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4772288+00:00:2024-12-04T01:10:21.4771261+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4774442+00:00:2024-12-04T01:10:21.4773306+00:00:Thread#0:B:When The user buys <quantity> quantity of <fuelType> fuel
+2024-12-04T01:10:21.4776883+00:00:2024-12-04T01:10:21.4775922+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4778889+00:00:2024-12-04T01:10:21.4777852+00:00:Thread#0:B:Then The user would get back response You have purchased <units> m³ at a cost of <price> there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4781745+00:00:2024-12-04T01:10:21.4780640+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4783915+00:00:2024-12-04T01:10:21.4782840+00:00:Thread#0:B:When The user sends request to obtain details of previous orders
+2024-12-04T01:10:21.4786316+00:00:2024-12-04T01:10:21.4785141+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4840216+00:00:2024-12-04T01:10:21.4836859+00:00:Thread#0:B:Then The user should see following orders that were created before the current date
+2024-12-04T01:10:21.4843161+00:00:2024-12-04T01:10:21.4841891+00:00:Thread#0:B:  --- table step argument ---
+2024-12-04T01:10:21.4845538+00:00:2024-12-04T01:10:21.4844307+00:00:Thread#0:B:  | fuel     | id                                   | quantity |
+2024-12-04T01:10:21.4847635+00:00:2024-12-04T01:10:21.4846416+00:00:Thread#0:B:  | gas      | 31fc32da-bccb-44ab-9352-4f43fc44ed4b | 5        |
+2024-12-04T01:10:21.4849941+00:00:2024-12-04T01:10:21.4848647+00:00:Thread#0:B:  | electric | 080d9823-e874-4b5b-99ff-2021f2a59b25 | 23       |
+2024-12-04T01:10:21.4851970+00:00:2024-12-04T01:10:21.4850878+00:00:Thread#0:B:  | nuclear  | 2cdd6f69-95df-437e-b4d3-e772472db8de | 15       |
+2024-12-04T01:10:21.4853959+00:00:2024-12-04T01:10:21.4852946+00:00:Thread#0:B:  | oil      | 080d9823-e874-4b5b-99ff-2021f2a59b24 | 25       |
+2024-12-04T01:10:21.4855881+00:00:2024-12-04T01:10:21.4854781+00:00:Thread#0:B:  | gas      | 31fc32da-bccb-44ab-9352-4f43fc44ed4b | 5        |
+2024-12-04T01:10:21.4858923+00:00:2024-12-04T01:10:21.4857838+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4867020+00:00:2024-12-04T01:10:21.4865413+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4868880+00:00:2024-12-04T01:10:21.4867940+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4873250+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4873351+00:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2024-12-04T01:10:21.4873370+00:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2024-12-04T01:10:21.4873497+00:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4873518+00:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4873532+00:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4873550+00:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2024-12-04T01:10:21.4873627+00:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2024-12-04T01:10:21.4873681+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4881591+00:00:Thread#0: Test #11/0 is finished on thread #0 as Pending within 0.0136065 seconds
+2024-12-04T01:10:21.4884605+00:00:Thread#0: Test #12/0 is started on thread #0
+2024-12-04T01:10:21.4899604+00:00:2024-12-04T01:10:21.4896963+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4907904+00:00:2024-12-04T01:10:21.4906066+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4910197+00:00:2024-12-04T01:10:21.4909187+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4912390+00:00:2024-12-04T01:10:21.4911425+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4914362+00:00:2024-12-04T01:10:21.4913428+00:00:Thread#0:B:When The user sends request to obtain details on energy types
+2024-12-04T01:10:21.4916760+00:00:2024-12-04T01:10:21.4915704+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4918784+00:00:2024-12-04T01:10:21.4917749+00:00:Thread#0:B:Then The user should see price per unit 0.34 for gas
+2024-12-04T01:10:21.4921264+00:00:2024-12-04T01:10:21.4920273+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4923432+00:00:2024-12-04T01:10:21.4922345+00:00:Thread#0:B:When The user buys 10 quantity of gas fuel
+2024-12-04T01:10:21.4925996+00:00:2024-12-04T01:10:21.4924938+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4928127+00:00:2024-12-04T01:10:21.4927108+00:00:Thread#0:B:Then The user would get back response You have purchased 2990 m³ at a cost of 3.4000000000000004 there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.4930982+00:00:2024-12-04T01:10:21.4929939+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4938341+00:00:2024-12-04T01:10:21.4936497+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.4940292+00:00:2024-12-04T01:10:21.4939161+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4944994+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.4945099+00:00:Thread#:Scheduler: testitem #13 from normal test queue 
+2024-12-04T01:10:21.4945116+00:00:Thread#0:Scheduler: considering testitem #13 for thread 0
+2024-12-04T01:10:21.4945239+00:00:Thread#0:TestItem#13:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.4945259+00:00:Thread#0:TestItem#13:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.4945272+00:00:Thread#0:TestItem#13:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.4945287+00:00:Thread#0:Scheduler: using testitem #13 for thread 0
+2024-12-04T01:10:21.4945368+00:00:Thread#0:Scheduler: Test #13 is scheduled for thread
+2024-12-04T01:10:21.4945424+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.4952988+00:00:Thread#0: Test #12/0 is finished on thread #0 as Pending within 0.0068197 seconds
+2024-12-04T01:10:21.4956851+00:00:Thread#0: Test #13/0 is started on thread #0
+2024-12-04T01:10:21.4972152+00:00:2024-12-04T01:10:21.4965879+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.4988635+00:00:2024-12-04T01:10:21.4985514+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.4992932+00:00:2024-12-04T01:10:21.4991461+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.4995696+00:00:2024-12-04T01:10:21.4994568+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.4998097+00:00:2024-12-04T01:10:21.4996971+00:00:Thread#0:B:When The user sends request to obtain details on energy types
+2024-12-04T01:10:21.5000855+00:00:2024-12-04T01:10:21.4999492+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5003551+00:00:2024-12-04T01:10:21.5002469+00:00:Thread#0:B:Then The user should see price per unit 0.47 for electric
+2024-12-04T01:10:21.5006437+00:00:2024-12-04T01:10:21.5005212+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5008909+00:00:2024-12-04T01:10:21.5007806+00:00:Thread#0:B:When The user buys 7 quantity of electric fuel
+2024-12-04T01:10:21.5011508+00:00:2024-12-04T01:10:21.5010441+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5013791+00:00:2024-12-04T01:10:21.5012675+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of 3.29 there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.5016802+00:00:2024-12-04T01:10:21.5015659+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5025213+00:00:2024-12-04T01:10:21.5023314+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.5027508+00:00:2024-12-04T01:10:21.5026367+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.5032638+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.5032745+00:00:Thread#:Scheduler: testitem #14 from normal test queue 
+2024-12-04T01:10:21.5032764+00:00:Thread#0:Scheduler: considering testitem #14 for thread 0
+2024-12-04T01:10:21.5032885+00:00:Thread#0:TestItem#14:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.5032905+00:00:Thread#0:TestItem#14:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.5032918+00:00:Thread#0:TestItem#14:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.5032932+00:00:Thread#0:Scheduler: using testitem #14 for thread 0
+2024-12-04T01:10:21.5033007+00:00:Thread#0:Scheduler: Test #14 is scheduled for thread
+2024-12-04T01:10:21.5033065+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.5041352+00:00:Thread#0: Test #13/0 is finished on thread #0 as Pending within 0.0084225 seconds
+2024-12-04T01:10:21.5044375+00:00:Thread#0: Test #14/0 is started on thread #0
+2024-12-04T01:10:21.5069087+00:00:2024-12-04T01:10:21.5066882+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.5079125+00:00:2024-12-04T01:10:21.5076652+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.5082480+00:00:2024-12-04T01:10:21.5081253+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.5086262+00:00:2024-12-04T01:10:21.5084433+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5089870+00:00:2024-12-04T01:10:21.5087933+00:00:Thread#0:B:When The user sends request to obtain details on energy types
+2024-12-04T01:10:21.5092966+00:00:2024-12-04T01:10:21.5091729+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5095653+00:00:2024-12-04T01:10:21.5094486+00:00:Thread#0:B:Then The user should see price per unit 0.56 for nuclear
+2024-12-04T01:10:21.5098449+00:00:2024-12-04T01:10:21.5097257+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5101644+00:00:2024-12-04T01:10:21.5099847+00:00:Thread#0:B:When The user buys 9 quantity of nuclear fuel
+2024-12-04T01:10:21.5104841+00:00:2024-12-04T01:10:21.5103656+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5107623+00:00:2024-12-04T01:10:21.5106316+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.5111073+00:00:2024-12-04T01:10:21.5109830+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5121059+00:00:2024-12-04T01:10:21.5118355+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.5124705+00:00:2024-12-04T01:10:21.5122995+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.5135503+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.5135724+00:00:Thread#:Scheduler: testitem #15 from normal test queue 
+2024-12-04T01:10:21.5135753+00:00:Thread#0:Scheduler: considering testitem #15 for thread 0
+2024-12-04T01:10:21.5136212+00:00:Thread#0:TestItem#15:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T01:10:21.5136242+00:00:Thread#0:TestItem#15:runsOnOneOtherThreadSpecific:False
+2024-12-04T01:10:21.5136262+00:00:Thread#0:TestItem#15:runsOnOneOtherThreadUnspecific:False
+2024-12-04T01:10:21.5136282+00:00:Thread#0:Scheduler: using testitem #15 for thread 0
+2024-12-04T01:10:21.5136463+00:00:Thread#0:Scheduler: Test #15 is scheduled for thread
+2024-12-04T01:10:21.5136564+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T01:10:21.5148019+00:00:Thread#0: Test #14/0 is finished on thread #0 as Pending within 0.0103411 seconds
+2024-12-04T01:10:21.5153297+00:00:Thread#0: Test #15/0 is started on thread #0
+2024-12-04T01:10:21.5161268+00:00:2024-12-04T01:10:21.5159261+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T01:10:21.5169959+00:00:2024-12-04T01:10:21.5167945+00:00:Thread#0:T:pending: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.5173193+00:00:2024-12-04T01:10:21.5171940+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T01:10:21.5176218+00:00:2024-12-04T01:10:21.5175056+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5178667+00:00:2024-12-04T01:10:21.5177597+00:00:Thread#0:B:When The user sends request to obtain details on energy types
+2024-12-04T01:10:21.5181373+00:00:2024-12-04T01:10:21.5180197+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5183782+00:00:2024-12-04T01:10:21.5182641+00:00:Thread#0:B:Then The user should see price per unit 0.5 for oil
+2024-12-04T01:10:21.5186628+00:00:2024-12-04T01:10:21.5185508+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5189339+00:00:2024-12-04T01:10:21.5187830+00:00:Thread#0:B:When The user buys 10 quantity of oil fuel
+2024-12-04T01:10:21.5192727+00:00:2024-12-04T01:10:21.5191171+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5196585+00:00:2024-12-04T01:10:21.5194422+00:00:Thread#0:B:Then The user would get back response You have purchased  m³ at a cost of  there are 5 units remaining. Your order id is 6d153142-1e3d-4a12-9b63-f52c645e8cb8.
+2024-12-04T01:10:21.5200794+00:00:2024-12-04T01:10:21.5199458+00:00:Thread#0:T:skipped because of previous errors
+2024-12-04T01:10:21.5213651+00:00:2024-12-04T01:10:21.5210554+00:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2024-12-04T01:10:21.5217188+00:00:2024-12-04T01:10:21.5215733+00:00:Thread#0:T:  BuyFuelStepDefinitions.GivenILoginToObtainAccessToken()
+2024-12-04T01:10:21.5226575+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T01:10:21.5226763+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-12-04T01:10:21.5226781+00:00:Thread#0:Scheduler: enumerator for thread is at end
+2024-12-04T01:10:21.5226800+00:00:Thread#0:Scheduler: No more tests for thread
+2024-12-04T01:10:21.5248323+00:00:Thread#0: Test #15/0 is finished on thread #0 as Pending within 0.00947 seconds
+2024-12-04T01:10:21.5326112+00:00:2024-12-04T01:10:21.5323414+00:00:Got Deinitialize Signal
+2024-12-04T01:10:21.5358006+00:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2024-12-04T01:10:21.5359075+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2024-12-04T01:10:21.5369583+00:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2024-12-04T01:10:21.5393245+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T01:10:21.5393489+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2024-12-04T01:10:21.5393511+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2024-12-04T01:10:21.5393555+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:21.5393658+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2024-12-04T01:10:21.5393952+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2024-12-04T01:10:21.5394155+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T01:10:21.5400462+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:21.5400582+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2024-12-04T01:10:21.5402698+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2024-12-04T01:10:21.5403102+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T01:10:21.5404061+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:21.5404124+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2024-12-04T01:10:21.5404395+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2024-12-04T01:10:21.5404582+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T01:10:21.5405534+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:21.5405590+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\System.Diagnostics.Process.resources.dll'
+2024-12-04T01:10:21.5409576+00:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\System.Diagnostics.Process.resources.exe'
+2024-12-04T01:10:21.5409978+00:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T01:10:21.5415075+00:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T01:10:21.5487311+00:00:Thread#-1:Scheduler: get next test for thread -1
+2024-12-04T01:10:21.5487582+00:00:Thread#:Scheduler: at the end of normal test queue
+2024-12-04T01:10:21.5487601+00:00:Thread#-1:Scheduler: enumerator for thread is at end
+2024-12-04T01:10:21.5501625+00:00;Thread#12;Info;test run finished
+2024-12-04T01:10:21.5503439+00:00;Thread#12;Info;publishing test results
+2024-12-04T01:10:21.5504601+00:00;Thread#12;Info;Not publishing results.
+2024-12-04T01:10:21.5505124+00:00;Thread#12;Info;test results published
+2024-12-04T01:10:21.5505434+00:00;Thread#12;Info;generating reports
+2024-12-04T01:10:21.6271714+00:00;Thread#12;Info;Starting external report generation process
+2024-12-04T01:10:24.6331002+00:00;Thread#12;Info;Successfully generated reports.
+2024-12-04T01:10:24.6515181+00:00;Thread#12;Info;Successfully generated reports
+2024-12-04T01:10:24.6600532+00:00:Total: 12
+2024-12-04T01:10:24.6629983+00:00:Succeeded: 0
+2024-12-04T01:10:24.6635084+00:00:Ignored: 0
+2024-12-04T01:10:24.6639217+00:00:Pending: 12
+2024-12-04T01:10:24.6639413+00:00:Skipped: 0
+2024-12-04T01:10:24.6642878+00:00:Failed: 0
+2024-12-04T01:10:24.6840469+00:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2024-12-04T01:10:24.6842752+00:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\savio\source\repos\EnsekAPITests\TestResults\EnsekAPITests_EnsekAPITests_2024-12-04T011019.html'
+========== End of log file ==========

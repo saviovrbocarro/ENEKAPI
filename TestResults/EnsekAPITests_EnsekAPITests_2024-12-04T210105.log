@@ -1,0 +1,173 @@
+﻿2024-12-04T21:01:04.9812699+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2024-12-04T21:01:04.9814092+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2024-12-04T21:01:04.9814137+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2024-12-04T21:01:04.9839886+00:00;VSTestExecutionThread;Info;Current UserName: 'savio', MachineName: 'DESKTOP-44J5CFI'
+2024-12-04T21:01:05.1737985+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T21:01:05.1741748+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\savio\source\repos\EnsekAPITests\TestResults" (default)
+2024-12-04T21:01:05.1742636+00:00;VSTestExecutionThread;Info;Profile: EnsekAPITests
+2024-12-04T21:01:05.2669654+00:00;VSTestExecutionThread;Info;Log file path: C:\Users\savio\source\repos\EnsekAPITests\TestResults\EnsekAPITests_EnsekAPITests_2024-12-04T210105.log
+2024-12-04T21:01:05.2796209+00:00;Thread#12;Info;Checking activation
+2024-12-04T21:01:05.4233732+00:00;Thread#12;Info;Activated.
+2024-12-04T21:01:05.4236943+00:00;Thread#12;Info;Activation check completed
+2024-12-04T21:01:05.4238320+00:00;Thread#12;Info;Starting test run
+2024-12-04T21:01:06.4182632+00:00;Thread#12;Info;Discovering target: Default
+2024-12-04T21:01:06.4184493+00:00;Thread#12;Info;Discovering tests from assembly: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T21:01:06.6238284+00:00;Thread#12;Info;Discovered tests from assembly: C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll
+2024-12-04T21:01:06.6251948+00:00:Test Suite Dump
+2024-12-04T21:01:06.6266979+00:00:#0: EnsekAPITests/EnsekAPITests - 
+2024-12-04T21:01:06.6267160+00:00:#1: Default - 
+2024-12-04T21:01:06.6267181+00:00:#2: EnsekAPITests - 
+2024-12-04T21:01:06.6267301+00:00:#3: BuyEnergy - 
+2024-12-04T21:01:06.6277827+00:00:#4: Verify User Can Buy Energy Based On Quantity Of Units Available, Variant 0 - TestAssembly:EnsekAPITests/Feature:BuyEnergy/Scenario:Verify+User+Can+Buy+Energy+Based+On+Quantity+Of+Units+Available%2c+Variant+0
+2024-12-04T21:01:06.6278352+00:00:End: Test Suite Dump
+2024-12-04T21:01:06.6456223+00:00:Thread#0:Scheduler: get next test for thread 0
+2024-12-04T21:01:06.6472884+00:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2024-12-04T21:01:06.6473509+00:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2024-12-04T21:01:06.6501458+00:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2024-12-04T21:01:06.6501576+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2024-12-04T21:01:06.6501608+00:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2024-12-04T21:01:06.6501641+00:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2024-12-04T21:01:06.6507485+00:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2024-12-04T21:01:06.6524854+00:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2024-12-04T21:01:06.6549410+00:00:Thread #0: creating new test thread executor for EnsekAPITests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2024-12-04T21:01:06.6575042+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2024-12-04T21:01:06.6576630+00:00:Thread #0: Creating test assembly executor for execution model OutProc
+2024-12-04T21:01:06.6660061+00:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2024-12-04T21:01:06.6675058+00:00:starting Out Of Process Executor
+2024-12-04T21:01:06.6750365+00:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:06.6770967+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2024-12-04T21:01:06.6771103+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2024-12-04T21:01:06.6780048+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:06.6782736+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T21:01:06.6783587+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T21:01:06.6783980+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:06.7228380+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:06.7228600+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T21:01:06.7231759+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T21:01:06.7232499+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:06.7233719+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:06.7233831+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T21:01:06.7234118+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T21:01:06.7234354+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:06.7235323+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:06.7235390+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.dll'
+2024-12-04T21:01:06.7237899+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Validation.exe'
+2024-12-04T21:01:06.7238256+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:06.7342751+00:00:Starting callback TCP Rpc server
+2024-12-04T21:01:06.7564094+00:00:Asynchronously starting background TCP Rpc Server on port 32768
+2024-12-04T21:01:06.7565485+00:00:Started callback TCP Rpc server on port 32768
+2024-12-04T21:01:06.7565514+00:00:Starting logger TCP Rpc server
+2024-12-04T21:01:06.7580743+00:00:Asynchronously starting background TCP Rpc Server on port 32769
+2024-12-04T21:01:06.7581744+00:00:Started logger TCP Rpc server on port 32769
+2024-12-04T21:01:06.8916358+00:00;Thread#12;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2024-12-04T21:01:06.8938627+00:00;Thread#12;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2024-12-04T21:01:07.0535550+00:00;Thread#12;Info;Successfully started SpecFlow+ Runner executor process
+2024-12-04T21:01:07.0613241+00:00:Out of Process Executor 29852 started
+2024-12-04T21:01:07.0613595+00:00:Waiting for endpoint
+2024-12-04T21:01:07.6543064+00:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:07.6543821+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2024-12-04T21:01:07.6543852+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2024-12-04T21:01:07.6543943+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:07.6543960+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T21:01:07.6544234+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T21:01:07.6544645+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:07.6555427+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:07.6555539+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T21:01:07.6555894+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T21:01:07.6556167+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:07.6557036+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:07.6557093+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T21:01:07.6557360+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T21:01:07.6557552+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:07.6558824+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:07.6558882+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.dll'
+2024-12-04T21:01:07.6559210+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.VisualStudio.Threading.exe'
+2024-12-04T21:01:07.6559407+00:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:07.9997152+00:00:Remote executor port received: 32770
+2024-12-04T21:01:08.0001094+00:00:Creating executor TCP client on port 32770
+2024-12-04T21:01:08.0005724+00:00:Created executor TCP client on port 32770
+2024-12-04T21:01:08.0005791+00:00:Connecting to remote executor TCP server
+2024-12-04T21:01:08.0017686+00:00:Connected remote executor TCP server
+2024-12-04T21:01:08.0022189+00:00:trying to connect to Out of Process Executor the 1 attempt
+2024-12-04T21:01:08.0022288+00:00:Connection to Out of Process Executor established in the 1 attempt
+2024-12-04T21:01:08.1701529+00:00:2024-12-04T21:01:08.1686960+00:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\EnsekAPITests.dll on test thread #0
+2024-12-04T21:01:08.1814887+00:00:Endpoint 29852 started
+2024-12-04T21:01:08.1990535+00:00:2024-12-04T21:01:08.1983318+00:00:OutOfProcessTestAssemblyExecutor: running tests...
+2024-12-04T21:01:08.3153075+00:00:2024-12-04T21:01:08.3146568+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2024-12-04T21:01:08.3195022+00:00:2024-12-04T21:01:08.3187781+00:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2024-12-04T21:01:08.3380866+00:00:2024-12-04T21:01:08.3374514+00:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\savio\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2024-12-04T21:01:08.4752803+00:00:2024-12-04T21:01:08.4732949+00:00:Thread#0:T:-> Loading plugin C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2024-12-04T21:01:08.4869485+00:00:2024-12-04T21:01:08.4855613+00:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2024-12-04T21:01:08.4922722+00:00:2024-12-04T21:01:08.4913107+00:00:Thread#0:T:-> Using default config
+2024-12-04T21:01:08.5035902+00:00:2024-12-04T21:01:08.5017698+00:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2024-12-04T21:01:08.5053876+00:00:2024-12-04T21:01:08.5045538+00:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2024-12-04T21:01:08.5070542+00:00:2024-12-04T21:01:08.5063242+00:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\savio\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2024-12-04T21:01:08.5161149+00:00:2024-12-04T21:01:08.5150583+00:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2024-12-04T21:01:08.5176083+00:00:2024-12-04T21:01:08.5169440+00:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2024-12-04T21:01:08.5191427+00:00:2024-12-04T21:01:08.5184846+00:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\savio\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2024-12-04T21:01:08.5590625+00:00:2024-12-04T21:01:08.5578521+00:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:08.5607887+00:00:2024-12-04T21:01:08.5603561+00:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2024-12-04T21:01:08.5620626+00:00:2024-12-04T21:01:08.5616689+00:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\savio\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2024-12-04T21:01:08.6128440+00:00:2024-12-04T21:01:08.6121056+00:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2024-12-04T21:01:08.6140436+00:00:2024-12-04T21:01:08.6136875+00:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2024-12-04T21:01:08.6149202+00:00:2024-12-04T21:01:08.6146234+00:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\savio\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2024-12-04T21:01:08.8656983+00:00:Thread#0: Test #4/0 is started on thread #0
+2024-12-04T21:01:08.9191023+00:00:2024-12-04T21:01:08.9180645+00:00:Assembly resolving Microsoft.Extensions.Configuration, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9201299+00:00:2024-12-04T21:01:08.9196737+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration' from .deps.json file
+2024-12-04T21:01:08.9215707+00:00:2024-12-04T21:01:08.9211639+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.configuration\9.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll'
+2024-12-04T21:01:08.9291268+00:00:2024-12-04T21:01:08.9285482+00:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9299715+00:00:2024-12-04T21:01:08.9295950+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2024-12-04T21:01:08.9308900+00:00:2024-12-04T21:01:08.9305595+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.configuration.abstractions\9.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2024-12-04T21:01:08.9386044+00:00:2024-12-04T21:01:08.9380203+00:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9395536+00:00:2024-12-04T21:01:08.9391906+00:00:Assembly resolving Microsoft.Extensions.Configuration.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9464666+00:00:2024-12-04T21:01:08.9459569+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Json' from .deps.json file
+2024-12-04T21:01:08.9475551+00:00:2024-12-04T21:01:08.9471850+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Json' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.configuration.json\9.0.0\lib\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll'
+2024-12-04T21:01:08.9558398+00:00:2024-12-04T21:01:08.9552820+00:00:Assembly resolving Microsoft.Extensions.FileProviders.Abstractions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9567377+00:00:2024-12-04T21:01:08.9563492+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Abstractions' from .deps.json file
+2024-12-04T21:01:08.9576430+00:00:2024-12-04T21:01:08.9573435+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Abstractions' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.fileproviders.abstractions\9.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll'
+2024-12-04T21:01:08.9651038+00:00:2024-12-04T21:01:08.9643955+00:00:Assembly resolving Microsoft.Extensions.Configuration.FileExtensions, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9659339+00:00:2024-12-04T21:01:08.9655693+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.FileExtensions' from .deps.json file
+2024-12-04T21:01:08.9668436+00:00:2024-12-04T21:01:08.9665335+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.FileExtensions' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.configuration.fileextensions\9.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.FileExtensions.dll'
+2024-12-04T21:01:08.9756645+00:00:2024-12-04T21:01:08.9750808+00:00:Assembly resolving Microsoft.Extensions.FileProviders.Physical, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9770212+00:00:2024-12-04T21:01:08.9764030+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Physical' from .deps.json file
+2024-12-04T21:01:08.9782239+00:00:2024-12-04T21:01:08.9778272+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Physical' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.fileproviders.physical\9.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Physical.dll'
+2024-12-04T21:01:08.9861094+00:00:2024-12-04T21:01:08.9855467+00:00:Assembly resolving Microsoft.Extensions.Primitives, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:08.9868921+00:00:2024-12-04T21:01:08.9865975+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' from .deps.json file
+2024-12-04T21:01:08.9877856+00:00:2024-12-04T21:01:08.9874962+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Primitives' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.primitives\9.0.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll'
+2024-12-04T21:01:09.0090824+00:00:2024-12-04T21:01:09.0085183+00:00:Assembly resolving System.Text.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+2024-12-04T21:01:09.0099057+00:00:2024-12-04T21:01:09.0095909+00:00:[AssemblyCache] Trying to resolve 'System.Text.Json' from .deps.json file
+2024-12-04T21:01:09.0109425+00:00:2024-12-04T21:01:09.0105063+00:00:[AssemblyCache] Resolved 'System.Text.Json' to 'C:\Users\savio\.nuget\packages\system.text.json\9.0.0\lib\netstandard2.0\System.Text.Json.dll'
+2024-12-04T21:01:09.0235433+00:00:2024-12-04T21:01:09.0229614+00:00:Assembly resolving System.IO.Pipelines, Version=9.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+2024-12-04T21:01:09.0243694+00:00:2024-12-04T21:01:09.0239979+00:00:[AssemblyCache] Trying to resolve 'System.IO.Pipelines' from .deps.json file
+2024-12-04T21:01:09.0253877+00:00:2024-12-04T21:01:09.0250033+00:00:[AssemblyCache] Resolved 'System.IO.Pipelines' to 'C:\Users\savio\.nuget\packages\system.io.pipelines\9.0.0\lib\netstandard2.0\System.IO.Pipelines.dll'
+2024-12-04T21:01:09.0681087+00:00:2024-12-04T21:01:09.0673689+00:00:Assembly resolving System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:09.0691652+00:00:2024-12-04T21:01:09.0687627+00:00:[AssemblyCache] Trying to resolve 'System.Runtime.CompilerServices.Unsafe' from .deps.json file
+2024-12-04T21:01:09.0704680+00:00:2024-12-04T21:01:09.0700949+00:00:[AssemblyCache] Resolved 'System.Runtime.CompilerServices.Unsafe' to 'C:\Users\savio\.nuget\packages\system.runtime.compilerservices.unsafe\6.0.0\lib\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll'
+2024-12-04T21:01:09.0963421+00:00:2024-12-04T21:01:09.0957719+00:00:Thread#0:B:Given I login to obtain access token
+2024-12-04T21:01:09.1045220+00:00:2024-12-04T21:01:09.1038168+00:00:Assembly resolving Microsoft.Extensions.Configuration.Binder, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-12-04T21:01:09.1053284+00:00:2024-12-04T21:01:09.1049826+00:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Binder' from .deps.json file
+2024-12-04T21:01:09.1063944+00:00:2024-12-04T21:01:09.1059141+00:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Binder' to 'C:\Users\savio\.nuget\packages\microsoft.extensions.configuration.binder\9.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll'
+2024-12-04T21:01:19.4466646+00:00:2024-12-04T21:01:19.4443498+00:00:Assembly resolving Microsoft.CSharp.resources, Version=4.0.5.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:19.4489119+00:00:2024-12-04T21:01:19.4482881+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' from .deps.json file
+2024-12-04T21:01:19.4500997+00:00:2024-12-04T21:01:19.4496381+00:00:[AssemblyCache] Could not resolve 'Microsoft.CSharp.resources' from .deps.json
+2024-12-04T21:01:19.4526247+00:00:2024-12-04T21:01:19.4519441+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:19.4564514+00:00:2024-12-04T21:01:19.4559346+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.CSharp.resources.dll'
+2024-12-04T21:01:19.4575664+00:00:2024-12-04T21:01:19.4570908+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1\Microsoft.CSharp.resources.exe'
+2024-12-04T21:01:19.4584758+00:00:2024-12-04T21:01:19.4581408+00:00:[AssemblyCache] Could not resolve 'Microsoft.CSharp.resources' in folder 'C:\Users\savio\source\repos\EnsekAPITests\bin\Debug\netcoreapp3.1'
+2024-12-04T21:01:19.4662404+00:00:2024-12-04T21:01:19.4656682+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:19.4670514+00:00:2024-12-04T21:01:19.4667028+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.CSharp.resources.dll'
+2024-12-04T21:01:19.4680957+00:00:2024-12-04T21:01:19.4677683+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3\Microsoft.CSharp.resources.exe'
+2024-12-04T21:01:19.4688636+00:00:2024-12-04T21:01:19.4685799+00:00:[AssemblyCache] Could not resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.3'
+2024-12-04T21:01:19.4697958+00:00:2024-12-04T21:01:19.4694825+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:19.4704897+00:00:2024-12-04T21:01:19.4701735+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.CSharp.resources.dll'
+2024-12-04T21:01:19.4712006+00:00:2024-12-04T21:01:19.4709135+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3\Microsoft.CSharp.resources.exe'
+2024-12-04T21:01:19.4719658+00:00:2024-12-04T21:01:19.4716860+00:00:[AssemblyCache] Could not resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.3'
+2024-12-04T21:01:19.4729077+00:00:2024-12-04T21:01:19.4725111+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:19.4737655+00:00:2024-12-04T21:01:19.4734442+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.CSharp.resources.dll'
+2024-12-04T21:01:19.4745174+00:00:2024-12-04T21:01:19.4742211+00:00:[AssemblyCache] Trying to resolve 'Microsoft.CSharp.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3\Microsoft.CSharp.resources.exe'
+2024-12-04T21:01:19.4752438+00:00:2024-12-04T21:01:19.4749698+00:00:[AssemblyCache] Could not resolve 'Microsoft.CSharp.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.3'
+2024-12-04T21:01:19.4783724+00:00:2024-12-04T21:01:19.4774633+00:00:Assembly resolving Microsoft.CSharp.resources, Version=4.0.5.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2024-12-04T21:01:20.2242433+00:00:2024-12-04T21:01:20.2231390+00:00:Thread#0:T:done: BuyFuelStepDefinitions.GivenILoginToObtainAccessToken() (11.1s)
+2024-12-04T21:01:20.2270505+00:00:2024-12-04T21:01:20.2263163+00:00:Thread#0:B:And I reset the test data back to its initial state
+2024-12-04T21:01:30.0181550+00:00:2024-12-04T21:01:30.0159434+00:00:Thread#0:T:done: BuyFuelStepDefinitions.GivenIResetTheTestDataBackToItsInitialState() (9.8s)
+2024-12-04T21:01:30.0222625+00:00:2024-12-04T21:01:30.0208903+00:00:Thread#0:B:When The user buys 10 quantity of gas fuel
